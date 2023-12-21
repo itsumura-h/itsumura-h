@@ -15,3 +15,7 @@
 [![My Zenn followers](https://zenn.badge.nikaera.com/s/dumblepy/followers?style=plastic)](https://zenn.dev/dumblepy/followers)
 [![My Zenn books](https://zenn.badge.nikaera.com/s/dumblepy/books?style=plastic)](https://zenn.dev/dumblepy/books)
 [![My Zenn scraps](https://zenn.badge.nikaera.com/s/dumblepy/scraps?style=plastic)](https://zenn.dev/dumblepy/scraps)
+
+## Nim Framworks Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=itsumura-h/nim-basolato,itsumura-h/nim-allographer,itsumura-h/nim-palladian&type=Date)](https://star-history.com/#itsumura-h/nim-basolato&itsumura-h/nim-allographer&itsumura-h/nim-palladian&Date)
